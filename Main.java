@@ -12,5 +12,11 @@ public class Main {
         Persona persona = new Persona();
         persona.mayorDeEdad();
         persona.descansar( false);
+        persona.verTelevision(true);
+        persona.hacerEjercicio(false);
+        persona.jugarVideojuegos(true);
+        persona.darleComidaAlGato(true);
+        persona.leerLibro(false);
+
     }
 }
